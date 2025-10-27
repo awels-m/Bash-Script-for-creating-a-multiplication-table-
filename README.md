@@ -1,0 +1,1 @@
+# Bash-Script-for-creating-a-multiplication-table-
